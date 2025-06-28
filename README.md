@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="./logo/exported/svg/128px/logo-128px-29.svg" width="128px">
     <h1 align="center"> Basilite Brand Identity </h1>
     <p>Official brand guidelines and assets for the Basilite smart home ecosystem.</p>
 </div>
