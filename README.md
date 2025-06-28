@@ -60,10 +60,10 @@ Ultimately, we aim to make intelligent living not just a privilege for the few, 
 - Main tagline:
   > The open-source smart home platform, reimagined.
 - Key Phrases:
-  > Effortless control. Limitless customization.
-  > Intelligent living, without limits.
-  > Open, smart and truly yours.
-  > Your home. Your rules.
+  > Effortless control. Limitless customization.  
+  > Intelligent living, without limits.  
+  > Open, smart and truly yours.  
+  > Your home. Your rules.  
 
 
 ## Target Audience
